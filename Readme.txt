@@ -1,13 +1,11 @@
-<h1 align="center">Desafio | Frontend Developer | Bold</h1>
+# Desafio | Frontend Developer | Bold
 
-<h4 align="center"> 
+#### 
 	🚧  Bold Project 🚀 Em construção...  🚧
-</h4>
 
-<h1 align="center">
-    <a href="https://github.com/itsdare/desafio-frontend"> Desafio</a>
-</h1>
-<p align="center">🚀 O desafio consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter com lib para construir interfaces do usuário com componentes reutilizáveis</p>
+
+- [Desafio](https://github.com/itsdare/desafio-frontend")
+####🚀 O desafio consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter com lib para construir interfaces do usuário com componentes reutilizáveis.
 
 
 ## Agora é pra valer! | :checkered_flag:
