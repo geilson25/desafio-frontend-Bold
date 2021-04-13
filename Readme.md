@@ -5,7 +5,7 @@
 
 
 - [Desafio](https://github.com/itsdare/desafio-frontend")
-####🚀 O desafio consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter com lib para construir interfaces do usuário com componentes reutilizáveis.
+🚀 O desafio consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter com lib para construir interfaces do usuário com componentes reutilizáveis.
 
 
 ## Agora é pra valer! | :checkered_flag:
@@ -13,6 +13,7 @@
 ### Features
 
 - [x] Read-me engajado!
+- [x] Configurando Meta Tag para IE
 - [ ] Cricar box top e footer no paint
 - [ ] Configurar o Normalize CSS
 
