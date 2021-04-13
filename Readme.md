@@ -16,9 +16,9 @@
 - [x] Configurando MetaTag para IE
 - [x] Configurando MetaTags de Descriptiosn e Keywords para melhores resultados de SEO
 - [x] Configurando MetaTags de OnGraph
-- [x] Estilizando os botões do header.
+- [x] Criar "bg-image" top e footer no paint
+- [x] Criando os botões do header.
 - [ ] Header
-- [ ] Cricar box top e footer no paint
 - [ ] Configurar o Normalize CSS
 
 
