@@ -1,0 +1,48 @@
+
+/* Início Cabeçalho */
+body {
+	background-image: url(../img/top.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+/* Fim do Cabeçalho */
+
+
+/* Início do Rodapé */
+
+/* Fim do Rodapé */
+
+header {
+
+}
+
+#header1 {
+	margin-top: 30px;
+	text-align: center;
+	font: normal normal normal 20px/24px Helvetica Neue;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+}
+
+#header2 {
+	margin-top: 0px;
+	text-align: center;
+	font: normal normal bold 40px/49px Helvetica Neue;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+}
+
+#header3 {
+	margin-top: 0px;
+	margin-bottom: 65px;
+	text-align: center;
+	font: normal normal normal 14px/16px Helvetica Neue;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	opacity: 1;
+}
+.botao {
+	align-items: center;
+}

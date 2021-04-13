@@ -15,7 +15,7 @@
 - [x] Read-me engajado!
 - [x] Configurando MetaTag para IE
 - [x] Configurando MetaTags de Descriptiosn e Keywords para melhores resultados de SEO
-- [x] Configurando MetaTags de Ongraph
+- [x] Configurando MetaTags de OnGraph
 - [ ] Cricar box top e footer no paint
 - [ ] Configurar o Normalize CSS
 
