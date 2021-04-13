@@ -16,6 +16,8 @@
 - [x] Configurando MetaTag para IE
 - [x] Configurando MetaTags de Descriptiosn e Keywords para melhores resultados de SEO
 - [x] Configurando MetaTags de OnGraph
+- [x] Estilizando os botões do header.
+- [ ] Header
 - [ ] Cricar box top e footer no paint
 - [ ] Configurar o Normalize CSS
 
@@ -45,6 +47,6 @@ Desenvolvido por mim que sou apaixonado pela livre investigação do saber e des
 [<img src="https://avatars.githubusercontent.com/u/62431727?s=400&u=1a5259edc9f3bb12ed184bb994a7493a818f41e9&v=4" width=115 > <br> <sub> Geilson Fidelis </sub>](https://github.com/geilson25) |
 | :---: |
 
-- [LinkedIn2](https://www.linkedin.com/in/geilsonfidelis/)
+- [LinkedIn](https://www.linkedin.com/in/geilsonfidelis/)
 - [GitHub](https://github.com/geilson25)
 - [Instagram](https://www.instagram.com/geilsonfidelis/)
