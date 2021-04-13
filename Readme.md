@@ -13,7 +13,7 @@
 ### Features
 
 - [x] Read-me engajado!
-- [x] Configurando Meta Tag para IE
+- [x] Configurando MetaTag para IE
 - [ ] Cricar box top e footer no paint
 - [ ] Configurar o Normalize CSS
 
