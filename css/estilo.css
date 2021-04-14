@@ -3,35 +3,59 @@
 	bottom: 0;
 }
 /* Início Cabeçalho */
+h1 {
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; 
+	font-style: normal; 
+	font-variant: normal;margin-top: 40px;
+	text-align: justify;
+	margin-top: 12%;
+}
+
 body {
 	background-image: url(../img/top.png);
 	background-repeat: no-repeat;
 	background-position: left top;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 700;
+	color: #888888;
 }
-/* Fim do Cabeçalho */
 
 
-/* Início do Rodapé */
-
-/* Fim do Rodapé */
-
-header {
-
+#apresentação {
+	margin-top: 40px;
+	text-align: center;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 8px; 
+	font-style: normal; 
+	font-variant: normal;
+	letter-spacing: 0px;
+	color: #888888;
+	opacity: 1;
+	margin-left: 0px;
 }
+
 
 #header1 {
 	margin-top: 40px;
 	text-align: center;
-	font: normal normal normal 20px/24px Helvetica Neue;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; 
+	font-style: normal; 
+	font-variant: normal;
 	letter-spacing: 0px;
 	color: #FFFFFF;
 	opacity: 1;
+	margin-left: 0px;
 }
 
 #header2 {
 	margin-top: 0px;
 	text-align: center;
-	font: normal normal bold 40px/49px Helvetica Neue;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 35px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-variant: bold;
 	letter-spacing: 0px;
 	color: #FFFFFF;
 	opacity: 1;
@@ -41,7 +65,9 @@ header {
 	margin-top: 20px;
 	margin-bottom: 45px;
 	text-align: center;
-	font: normal normal normal 14px/16px Helvetica Neue;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; 
+	font-style: normal; 
+	font-variant: normal;
 	letter-spacing: 0px;
 	color: #FFFFFF;
 	opacity: 1;
@@ -51,12 +77,15 @@ header {
 }
 
 .botao {
-  border: 0;
-  padding: 10px;
-  width: 200px;
-  height: 35px;
-  display: inline-block;
-  margin: 10px 0px;
-  cursor: pointer;
-  border-radius: 4px;
+	margin-left: 3%;	
+	border: 0;
+	padding: 10px;
+	width: 150px;
+	height: 35px;
+	display: inline-block;
+	cursor: pointer;
+	border-radius: 4px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
 }

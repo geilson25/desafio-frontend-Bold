@@ -20,7 +20,7 @@ link para acomapanhar a evolução: http://bit.ly/bold-desafio-front-end
 - [x] Criar "bg-image" top e footer no paint
 - [x] Criando os botões do header.
 - [x] Fazendo Delpoy no Netlify e criando um encurtador de links com o Bitly
-- [ ] Header
+- [x] Criando espaços entre os botões do header
 - [ ] Configurar o Normalize CSS
 
 
