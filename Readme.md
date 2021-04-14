@@ -3,6 +3,7 @@
 #### 
 	🚧  Bold Project 🚀 Em construção...  🚧
 
+link para acomapanhar a evolução: http://bit.ly/bold-desafio-front-end
 
 - [Desafio](https://github.com/itsdare/desafio-frontend")
 🚀 O desafio consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter com lib para construir interfaces do usuário com componentes reutilizáveis.
@@ -18,6 +19,7 @@
 - [x] Configurando MetaTags de OnGraph
 - [x] Criar "bg-image" top e footer no paint
 - [x] Criando os botões do header.
+- [x] Fazendo Delpoy no Netlify e criando um encurtador de links com o Bitly
 - [ ] Header
 - [ ] Configurar o Normalize CSS
 
